@@ -1,3 +1,14 @@
+good news everyone  
+before:
+<div align="center">
+![Screenshot](./doc/before-fix.png)
+</div>
+*after:*
+<div align="center">
+![Screenshot](./doc/after-fix.png)
+</div>
+
+
 <h1 align="center">
   <img src="doc/logo.png" width="200" style="padding: 5px;" />
   <br>
