@@ -1,11 +1,19 @@
 good news everyone  
+
 before:
+
 <div align="center">
+
 ![Screenshot](./doc/before-fix.png)
+
 </div>
+
 *after:*
+
 <div align="center">
+
 ![Screenshot](./doc/after-fix.png)
+
 </div>
 
 
